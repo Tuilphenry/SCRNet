@@ -1,5 +1,7 @@
-# Dataset & Code
+# Dataset 
 
-This repository provides access to the dataset and code used in the SCRNet project.
+Due to the large scale of this dataset (approximately 8GB), it exceeds GitHub's storage limits. We have hosted the complete dataset on Baidu Netdisk for public access.
 
-We will upload download links for the dataset and code after the article is accepted.
+📥 Download Link
+
+You can download the dataset via the link below: https://pan.baidu.com/s/1MJKHoNiIKg8IdlLwLXUZeg?pwd=1234
